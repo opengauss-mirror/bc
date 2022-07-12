@@ -1,39 +1,51 @@
 # bc
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
-
-#### 软件架构
-软件架构说明
+openGauss开源社区品牌宣传委员会（Branding Committee，简称UC）是openGauss社区的品牌宣传机构。
 
 
-#### 安装教程
+### 品牌宣传委员会主要职责
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+* 推广 openGauss 数据库技术和社区，提升 openGauss 品牌的影响力。
+* 引导 openGauss 数据库技术的广泛使用，构建 openGauss 全球生态。
+* 协同厂商和开发者行成传播的合力，构建有创新力的社区。
+  
+### 品牌宣传委员会成员
 
-#### 使用说明
+品牌宣传委员会设主席 1 名，主席的职权是：
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+* 召集和主持品牌宣传委员会会议，并保证参会人员有充分表达意见的权利。
+* 开展各种市场营销活动，组织 openGauss 数据库技术、用户案例、解决方案和社区的宣传活动。
+* 主席通过品牌宣传委员会的委员选举产生。
+* 主席同时是品牌宣传委员会委员，拥有和其他委员相同的投票权利。
 
-#### 参与贡献
+当前品牌宣传委员会成员包括：
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+* 梁冰        华为技术有限公司                       <liangbing11@huawei.com>      # 主席
+* 黄元霞      成都虚谷伟业科技有限公司               <huangyuanxia@xugudb.com>    # 委员
+* 茆亚明      天津神舟通用数据技术有限公司           <maoyaming@shentongdata.com> # 委员
+* 孟震        中国移动通信集团有限公司              <mengzhen@chinamobile.com>   # 委员
+* 王丹      北京超图软件股份有限公司                <wangdan@supermap.com>       # 委员
+* 王潇      云和恩墨(北京)信息技术有限公司          <xiao.wang@enmotech.com>     # 委员
+* 曾荣    超聚变数字技术有限公司                  <linda.zeng@xfusion.com>       # 委员
+* 詹巍    北京海量数据技术股份有限公司                <zhanwei@vastdata.com.cn>  # 委员
+* 张文召    中国联合网络通信集团有限公司              <zhangwz95@chinaunicom.cn>       # 委员
+* 张勇   清华大学                                   <zhangyong05@tsinghua.edu.cn>  # 委员
+
+轮席主席制：
+
+* 实行轮席主席模式，以1个月为周期，设置轮席主席。
+* 轮席主席召集召集月度例会，收集议题，讨论社区营销规划的方向与总结
+
+### 品牌宣传委员会会议召开与决策机制
+
+品牌宣传委员会会议每月举行一次。
+* 品牌宣传委员会会议由主席在会议召开前 5 个自然日通过邮件在邮件列表通知全体委员，会议通知应当包括召开的地点、日期、时间、方式和会议议题以及可用的参考来源，以便委员提前了解对会议内容。
+* 品牌宣传委员会会议须有三分之二以上（含）的委员出席方是有效会议，品牌宣传委员会会议为闭门会议。
+* 所有决议均需在有效会议上进行投票表决，投票为公开记名投票。投票分为赞同票、反对票和弃权票，只有三分之二以上（含）的与会委员投赞同票，决议才能通过。未到场委员不能委托其他人代替投票。
+* 品牌宣传委员会会议讨论未尽的事宜，可在品牌宣传委员会私有邮件列表通过邮件继续讨论。主席可通过邮件列表发起邮件投票，投票发起后委员需要在邮件发出后第 2 日起的 5 个自然日内回复邮件进行投票，逾期默认为投弃权票。
+* 理事会理事单位如需更换品牌宣传委员会委员的人选，需提前 30 个自然日通过书面或邮件方式通知秘书处，通知后在 30 个自然日内指派新的雇员担任委员工作。
 
 
-#### 特技
+### 品牌宣传委员会联系方式
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+* 邮件列表：bc@opengauss.org
